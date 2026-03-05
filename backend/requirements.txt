@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+httpx
+pydantic
+python-dotenv
+praw
+PyGithub
+openai
+google-generativeai
